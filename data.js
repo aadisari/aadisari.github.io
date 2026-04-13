@@ -1,9 +1,9 @@
 const chatStats = {
-    "total_messages": 32441,
-    "sent_by_me": 17371,
-    "sent_by_them": 15070,
+    "total_messages": 32465,
+    "sent_by_me": 17378,
+    "sent_by_them": 15087,
     "hourly_distribution": [
-        2711,
+        2722,
         1166,
         455,
         355,
@@ -12,7 +12,7 @@ const chatStats = {
         74,
         182,
         327,
-        495,
+        502,
         1235,
         2021,
         2525,
@@ -26,7 +26,7 @@ const chatStats = {
         1359,
         2022,
         3190,
-        3510
+        3516
     ],
     "my_word_counts": {
         "love ": 372,
@@ -72,7 +72,7 @@ const chatStats = {
     },
     "streak": {
         "current": 0,
-        "longest": 162
+        "longest": 163
     },
     "dates_active": [
         "2025-03-21",
@@ -327,7 +327,8 @@ const chatStats = {
         "2026-04-09",
         "2026-04-10",
         "2026-04-11",
-        "2026-04-12"
+        "2026-04-12",
+        "2026-04-13"
     ],
     "streak_breaks": [
         {
