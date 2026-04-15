@@ -1,70 +1,70 @@
 const chatStats = {
-    "total_messages": 32471,
-    "sent_by_me": 17380,
-    "sent_by_them": 15091,
+    "total_messages": 32762,
+    "sent_by_me": 17557,
+    "sent_by_them": 15205,
     "hourly_distribution": [
-        2722,
-        1166,
+        2725,
+        1180,
         455,
         355,
         56,
         32,
         74,
         182,
-        327,
+        333,
         502,
         1235,
         2021,
-        2526,
-        1881,
-        1437,
-        1703,
-        1240,
-        1363,
+        2541,
+        1897,
+        1444,
+        1714,
+        1266,
+        1385,
         1553,
-        1554,
-        1359,
-        2022,
-        3190,
-        3516
+        1577,
+        1397,
+        2077,
+        3223,
+        3538
     ],
     "my_word_counts": {
-        "love ": 372,
+        "love ": 373,
         "miss ": 69,
         "mwah ": 57,
-        "babi ": 510,
+        "babi ": 511,
         "babbles ": 104
     },
     "my_word_totals": {
-        "love ": 374,
+        "love ": 375,
         "miss ": 69,
         "mwah ": 137,
-        "babi ": 520,
+        "babi ": 521,
         "babbles ": 105
     },
     "their_word_counts": {
-        "love ": 322,
+        "love ": 325,
         "miss ": 55,
         "mwah ": 14,
-        "babi ": 189,
+        "babi ": 190,
         "babbles ": 2
     },
     "their_word_totals": {
-        "love ": 323,
+        "love ": 326,
         "miss ": 55,
         "mwah ": 17,
-        "babi ": 193,
+        "babi ": 194,
         "babbles ": 2
     },
     "counts_proportions": {
-        "love ": 0.54,
+        "love ": 0.53,
         "miss ": 0.56,
         "mwah ": 0.8,
         "babi ": 0.73,
         "babbles ": 0.98
     },
     "totals_proportions": {
-        "love ": 0.54,
+        "love ": 0.53,
         "miss ": 0.56,
         "mwah ": 0.89,
         "babi ": 0.73,
@@ -72,7 +72,7 @@ const chatStats = {
     },
     "streak": {
         "current": 0,
-        "longest": 163
+        "longest": 164
     },
     "dates_active": [
         "2025-03-21",
@@ -328,7 +328,8 @@ const chatStats = {
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
     ],
     "streak_breaks": [
         {
